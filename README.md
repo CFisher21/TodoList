@@ -36,26 +36,13 @@ The To-Do App allows users to:
 - npm install
 - npm start
 
-## Project Structure
-
-.
-├── dist/                # Generated production build files
-├── src/
-│   ├── images/          # Images used in the project (e.g., delete.svg, x.svg, add.svg)
-│   ├── style.css        # Application styles
-│   ├── index.js         # Main JavaScript entry point
-│   └── template.html    # HTML template
-├── package.json         # Project dependencies and scripts
-└── webpack.config.js    # Webpack configuration file
-
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v12 or later)
 - npm (comes with Node.js)
 
-###License
+### License
 Distributed under the MIT License. See LICENSE for more information.
 
-###Acknowledgments
+### Acknowledgments
 Built by Cody Fisher
