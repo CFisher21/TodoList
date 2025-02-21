@@ -422,7 +422,10 @@ showListsForNextWeek();
 } )
 
 document.getElementById('all').addEventListener('click', () => {
-loadState();
+    const defaultLists = document.querySelectorAll('.default-list');
+    defaultLists.forEach(list => {
+        list.style.display = '';
+    })
 } )
 
 document.getElementById('priority').addEventListener('click', (event) => {
