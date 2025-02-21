@@ -31,7 +31,7 @@ The To-Do App allows users to:
 
 ### Installation
 **Clone the repository:**
-- git clone https://github.com/CFisher21/YourRepoName.git
+- git clone https://github.com/CFisher21/TodoList
 - cd YourRepoName
 - npm install
 - npm start
